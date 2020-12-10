@@ -6,3 +6,5 @@ Open the covid19_discordbot.py in any editor and enter the token value in TOKEN 
 ```
 TOKEN = "<Give your bot token>"
 ```
+
+![](image.png)
